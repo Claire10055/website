@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css?family=Gideon Roman");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css"); 
+@import url("components/card.css");
+
+
+body {
+font-family : inherit;
+font-size: 18px;
+margin: 0px;
+background-color:#fceef9;
+text-align: center;
+}
+h1 {
+color:  #391d10;
+font-family:'inherit;';
+font-weight: bold;
+}
+h2 {
+color: #391d10;
+
+font-family:'inherit;';
+font-weight: bold;
+margin: 45px;
+font-size: 24px;
+
+}
+
+h3 {
+color: #391d10;
+font-family:'inherit;';
+font-weight: bold;
+padding-bottom: 6px;
+font color : #391d10:;
+font-size: 20px;
+text-align: left;
+
+
+}
+
+
+.justifier{
+	text-align: justify;
+}
+
+
+.centrer{
+	text-align: center;
+}
